@@ -15,6 +15,10 @@ This project is a complete 3-statement financial model built in Microsoft Excel.
 - Financial Modelling
 
 ## Skills Demonstrated
+- Financial Statement Preparation
 - Financial Analysis
 - Forecasting
 - Financial Modelling
+
+## Screenshots
+Screenshots of the workbook are available in the **Screenshots** folder of this repository for review
