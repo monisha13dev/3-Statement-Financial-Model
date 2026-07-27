@@ -31,4 +31,4 @@ This project is a complete 3-statement financial model built in Microsoft Excel.
 ![Cash Flow Statement](Screenshots/Cash_Flow_Statement.png)
 
 ### Capex & Depreciation
-![Dashboard](Screenshots/Capex & Depreciation.png)
+![Capex & Depreciation](Screenshots/Capex & Depreciation.png)
