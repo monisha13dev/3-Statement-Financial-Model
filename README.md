@@ -20,3 +20,15 @@ This project is a complete 3-statement financial model built in Microsoft Excel.
 - Financial Modelling
 
 ## Preview
+
+### Income Statement
+![Income Statement](screenshots/income_statement.png)
+
+### Balance Sheet
+![Balance Sheet](screenshots/balance_sheet.png)
+
+### Cash Flow Statement
+![Cash Flow Statement](screenshots/cash_flow.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
