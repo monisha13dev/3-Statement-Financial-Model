@@ -22,7 +22,7 @@ This project is a complete 3-statement financial model built in Microsoft Excel.
 ## Preview
 
 ### Income Statement
-![Income Statement](Screenshots\Income_Statement.png")
+![Income Statement](Screenshots/Income_Statement.png")
 
 ### Balance Sheet
 ![Balance Sheet](Screenshots/Balance_Sheet.png)
@@ -31,4 +31,4 @@ This project is a complete 3-statement financial model built in Microsoft Excel.
 ![Cash Flow Statement](Screenshots/Cash_Flow_Statement.png)
 
 ### Capex & Depreciation
-![Capex & Depreciation](Screenshots/Capex & Depreciation.png)
+![Capex & Depreciation](Screenshots/Capex_&_Depreciation.png)
